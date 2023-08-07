@@ -1,0 +1,31 @@
+<RCC>
+  <qresource prefix="vx">
+    <file>img/鼠标滚轮.png</file>
+    <file>img/公众号二维码.jpg</file>
+    <file>img/返回.png</file>
+    <file>img/任务列表.png</file>
+    <file>img/通知.png</file>
+    <file>img/警告-出错.png</file>
+    <file>img/2_round_solid_数字2_by_climei.png</file>
+    <file>img/3_round_solid_数字3_by_climei.png</file>
+    <file>img/4_round_solid_数字4_by_climei.png</file>
+    <file>img/1_round_solid_数字1_by_climei.png</file>
+    <file>img/icon.png</file>
+    <file>img/API.png</file>
+    <file>img/XLSX.png</file>
+    <file>img/保存.png</file>
+    <file>img/菜单管理.png</file>
+    <file>img/叉删除.png</file>
+    <file>img/减小.png</file>
+    <file>img/警告.png</file>
+    <file>img/删除.png</file>
+    <file>img/数据准备.png</file>
+    <file>img/文件.png</file>
+    <file>img/XLSX.png</file>
+    <file>img/运行.png</file>
+    <file>img/重命名.png</file>
+    <file>img/最小化.png</file>
+    <file>img/关闭.png</file>
+    <file>img/vx1.png</file>
+  </qresource>
+</RCC>
